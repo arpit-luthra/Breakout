@@ -21,5 +21,5 @@ Break all bricks to win. As you progress, the ball speeds up and your paddle shr
 **How to Run**
 ---
 * Download and extract the ZIP.
-* Open GalaxyGuardian.sln in Visual Studio.
+* Open Breakout.sln in Visual Studio.
 * Press Start to play.
