@@ -1,0 +1,34 @@
+C:\Users\Rino\Desktop\Education\Computer Science\Courses\ICS4U1\Culminating\Templates\Breakout\bin\Debug\Breakout.exe.config
+C:\Users\Rino\Desktop\Education\Computer Science\Courses\ICS4U1\Culminating\Templates\Breakout\bin\Debug\Breakout.exe
+C:\Users\Rino\Desktop\Education\Computer Science\Courses\ICS4U1\Culminating\Templates\Breakout\bin\Debug\Breakout.pdb
+C:\Users\Rino\Desktop\Education\Computer Science\Courses\ICS4U1\Culminating\Templates\Breakout\obj\Debug\Breakout.csproj.AssemblyReference.cache
+C:\Users\Rino\Desktop\Education\Computer Science\Courses\ICS4U1\Culminating\Templates\Breakout\obj\Debug\Breakout.Form1.resources
+C:\Users\Rino\Desktop\Education\Computer Science\Courses\ICS4U1\Culminating\Templates\Breakout\obj\Debug\Breakout.Properties.Resources.resources
+C:\Users\Rino\Desktop\Education\Computer Science\Courses\ICS4U1\Culminating\Templates\Breakout\obj\Debug\Breakout.csproj.GenerateResource.cache
+C:\Users\Rino\Desktop\Education\Computer Science\Courses\ICS4U1\Culminating\Templates\Breakout\obj\Debug\Breakout.csproj.CoreCompileInputs.cache
+C:\Users\Rino\Desktop\Education\Computer Science\Courses\ICS4U1\Culminating\Templates\Breakout\obj\Debug\Breakout.exe
+C:\Users\Rino\Desktop\Education\Computer Science\Courses\ICS4U1\Culminating\Templates\Breakout\obj\Debug\Breakout.pdb
+C:\Users\Rino\Desktop\Education\Computer Science\Courses\ICS4U1\Culminating\Templates\Breakout - Student\bin\Debug\Breakout.exe.config
+C:\Users\Rino\Desktop\Education\Computer Science\Courses\ICS4U1\Culminating\Templates\Breakout - Student\bin\Debug\Breakout.exe
+C:\Users\Rino\Desktop\Education\Computer Science\Courses\ICS4U1\Culminating\Templates\Breakout - Student\bin\Debug\Breakout.pdb
+C:\Users\Rino\Desktop\Education\Computer Science\Courses\ICS4U1\Culminating\Templates\Breakout - Student\obj\Debug\Breakout.csproj.AssemblyReference.cache
+C:\Users\Rino\Desktop\Education\Computer Science\Courses\ICS4U1\Culminating\Templates\Breakout - Student\obj\Debug\Breakout.Form1.resources
+C:\Users\Rino\Desktop\Education\Computer Science\Courses\ICS4U1\Culminating\Templates\Breakout - Student\obj\Debug\Breakout.Properties.Resources.resources
+C:\Users\Rino\Desktop\Education\Computer Science\Courses\ICS4U1\Culminating\Templates\Breakout - Student\obj\Debug\Breakout.csproj.GenerateResource.cache
+C:\Users\Rino\Desktop\Education\Computer Science\Courses\ICS4U1\Culminating\Templates\Breakout - Student\obj\Debug\Breakout.csproj.CoreCompileInputs.cache
+C:\Users\Rino\Desktop\Education\Computer Science\Courses\ICS4U1\Culminating\Templates\Breakout - Student\obj\Debug\Breakout.exe
+C:\Users\Rino\Desktop\Education\Computer Science\Courses\ICS4U1\Culminating\Templates\Breakout - Student\obj\Debug\Breakout.pdb
+C:\Users\Rino\Desktop\Education\Computer Science\Courses\ICS4U1\Culminating\Templates\Breakout - Student\obj\Debug\Breakout.exe.config
+C:\Users\Rino\Desktop\Education\Computer Science\Courses\ICS4U1\Culminating\Templates\Breakout - Student\obj\Debug\Breakout.Assets.resources
+C:\Users\arpit\OneDrive\Desktop\CS\Culminating\Breakout - Student\bin\Debug\Breakout.exe.config
+C:\Users\arpit\OneDrive\Desktop\CS\Culminating\Breakout - Student\bin\Debug\Breakout.exe
+C:\Users\arpit\OneDrive\Desktop\CS\Culminating\Breakout - Student\bin\Debug\Breakout.pdb
+C:\Users\arpit\OneDrive\Desktop\CS\Culminating\Breakout - Student\obj\Debug\Breakout.csproj.AssemblyReference.cache
+C:\Users\arpit\OneDrive\Desktop\CS\Culminating\Breakout - Student\obj\Debug\Breakout.exe.config
+C:\Users\arpit\OneDrive\Desktop\CS\Culminating\Breakout - Student\obj\Debug\Breakout.Assets.resources
+C:\Users\arpit\OneDrive\Desktop\CS\Culminating\Breakout - Student\obj\Debug\Breakout.Form1.resources
+C:\Users\arpit\OneDrive\Desktop\CS\Culminating\Breakout - Student\obj\Debug\Breakout.Properties.Resources.resources
+C:\Users\arpit\OneDrive\Desktop\CS\Culminating\Breakout - Student\obj\Debug\Breakout.csproj.GenerateResource.cache
+C:\Users\arpit\OneDrive\Desktop\CS\Culminating\Breakout - Student\obj\Debug\Breakout.csproj.CoreCompileInputs.cache
+C:\Users\arpit\OneDrive\Desktop\CS\Culminating\Breakout - Student\obj\Debug\Breakout.exe
+C:\Users\arpit\OneDrive\Desktop\CS\Culminating\Breakout - Student\obj\Debug\Breakout.pdb
